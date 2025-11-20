@@ -1,8 +1,15 @@
-## loop-it at the field-level
+# Loop-it at the Field Level
 
-Applying the loop-it method to field-level inference.
+A concise introduction to applying the **loop-it** methodology to **field-level cosmological inference**, focusing on practical usage and conceptual background.
 
+## References
+
+Key resources and related projects:
+
+* **MonteCosmo**: [https://github.com/hsimonfroy/montecosmo](https://github.com/hsimonfroy/montecosmo)
 
 ## Acknowledgments
 
-- https://github.com/avehtari/PSIS
+This work builds upon the following tools and ideas:
+
+* **Pareto Smoothed Importance Sampling (PSIS)**: [https://github.com/avehtari/PSIS](https://github.com/avehtari/PSIS)
